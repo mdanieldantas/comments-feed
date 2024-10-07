@@ -2,7 +2,7 @@ export default function App() {
 
   return (
     <div id="app">
-      <h2>Seção de Comentários</h2>
+      <h2>Seção dee Comentários</h2>
       <form>
         <label htmlFor="author">Email</label>
         <input type="text" id="author" required />
